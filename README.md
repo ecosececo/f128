@@ -1,14 +1,18 @@
 
 Daily Meetings:
- 
-
-<img src="https://www.hizliresim.com/qhh0xlm" alt="alt text" width="320" height="180">
-
-![wp1](http://www.hizliresim.com/qhh0x1m)(link)
-[![Blogger Badge](http://www.i.hizliresim.com/qhh0x1m.jpeg)](link)
-https://i.hizliresim.com/qhh0xlm.jpeg
 
-<img src="https://i.hizliresim.com/qhh0xlm.jpeg" width="300" height="700">
+
+<img src="https://i.hizliresim.com/e3a1xog.jpeg" width="300" height="700">
+<img src="https://i.hizliresim.com/ttjrfl9.jpeg" width="300" height="700">
+<img src="https://i.hizliresim.com/j4iurwy.jpeg" width="300" height="700">
+<img src="https://i.hizliresim.com/d6vu88x.jpeg" width="300" height="700">
+<img src="https://i.hizliresim.com/5jluzbo.jpeg" width="300" height="700">
+<img src="https://i.hizliresim.com/7rs3v62.jpeg" width="300" height="700">
+<img src="https://i.hizliresim.com/9wbzwm3.jpeg" width="300" height="700">
+<img src="https://i.hizliresim.com/2kl10dg.jpeg" width="300" height="700">
+<img src="https://i.hizliresim.com/fw1xe5t.jpeg" width="300" height="700">
+<img src="https://i.hizliresim.com/75y8drh.jpeg" width="300" height="700">
+
 
 Takım İsmi 
 Flutter - 128
