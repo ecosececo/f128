@@ -4,7 +4,7 @@ Daily Meetings:
 
 <img src="https://www.hizliresim.com/qhh0xlm" alt="alt text" width="320" height="180">
 
-![wp1](http://www.hizliresim.com/qhh0x1m)
+![wp1](http://www.hizliresim.com/qhh0x1m)(link)
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
 
 Takım İsmi 
