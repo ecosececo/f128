@@ -56,7 +56,7 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puan
 Daily scrum: Daily Scrum toplantılarının zamansal sebepler sebebiyle Discord üzerinden gün aşırı yapılmasına karar verilmiştir.Daily Scrum toplantısı örneği jpeg veya word olarak Readme’de tarafımızdan paylaşılmaktadır:
 
 ## Sprint Retrospective:
-*Aksiyom planına uygun olarak görev dağıtımları yapılmış ,product owner,scrum master ve developer rolleri ilgili kişilere atanmıştır.
+*Aksiyon planına uygun olarak görev dağıtımları yapılmış ,product owner,scrum master ve developer rolleri ilgili kişilere atanmıştır.
 *Takım üyelerinin gelecek sprintlerde daha aktif rol alması gerektiğine vurgu yapılmıştır.
 
 ## Sprint Review:
