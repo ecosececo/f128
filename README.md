@@ -13,7 +13,6 @@ Daily Meetings:
 <img src="https://i.hizliresim.com/fw1xe5t.jpeg" width="325" height="700">
 <img src="https://i.hizliresim.com/75y8drh.jpeg" width="325" height="700">
 
-
 Takım İsmi 
 Flutter - 128
 
@@ -28,12 +27,10 @@ Takım Üyeleri
 Ürün İsmi 
 Gustopia
 
-Product Backlog URL
-[Başlığa sahip bir yazı içi linkiyim](https://www.google.com "Google Anasayfa")
+[Product Backlog URL](https:///miro.com/app/board/uXjVM9zaO6k=/ "Product Backlog")
 
 Ürün Açıklaması
 Gustopia,restoran sahipleriyle kullanıcıları buluşturan bir platformdur.Bu platform üzerinden kullanıcılar çeşitli mekanların özelliklerini,menülerini inceleyebilir ve yorum yapabilirler.Aynı zamanda diğer kullanıcılara gerçekçi tavsiyelerde bulunabilirler.
-
 
 Ürün Özellikleri
 *Kolay kullanıcı ara yüzü
