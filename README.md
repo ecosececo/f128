@@ -4,9 +4,11 @@ Daily Meetings:
 
 <img src="https://www.hizliresim.com/qhh0xlm" alt="alt text" width="320" height="180">
 
+![wp1](http://www.hizliresim.com/qhh0x1m)
 
 Takım İsmi 
-Flutter -128
+Flutter - 128
+
 Ürünle İlgili Bilgiler:
 Takım Üyeleri
 *Ece Eylül Şen : Scrum Master
@@ -14,8 +16,10 @@ Takım Üyeleri
 *İlke Karaahmetoğlu: Product Owner
 *Hatice Kopuz: Developer
 *Berke Nalbant: Developer
+
 Ürün İsmi 
 Gustopia
+
 Product Backlog URL
 
 
