@@ -42,8 +42,8 @@ Gustopia,restoran sahipleriyle kullanıcıları buluşturan bir platformdur.Bu p
 
 ## Hedef Kitle
 İçinde bulunduğu lokasyonda yeni mekan keşfetmek isteyen herkes
-Restoran ve işletme sahipleri
-kullanıcılar restoranları keşfetmelerini, yemek seçeneklerini incelemelerini, yorum yapmalarını ve tavsiyelerde bulunmalarını sağlamak için uygulamanızı kullanacaklardır. Restoran sahipleri ise işletmelerini tanıtmak, müşterileri çekmek ve kullanıcıların geri bildirimlerini takip etmek için uygulamayı kullanacaklardır
+* Restoran ve işletme sahipleri 
+* Kullanıcılar restoranları keşfetmelerini, yemek seçeneklerini incelemelerini, yorum yapmalarını ve tavsiyelerde bulunmalarını sağlamak için uygulamanızı kullanacaklardır. Restoran sahipleri ise işletmelerini tanıtmak, müşterileri çekmek ve kullanıcıların geri bildirimlerini takip etmek için uygulamayı kullanacaklardır
 
 ## Sprint Notları:
 User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
