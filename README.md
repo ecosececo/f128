@@ -2,16 +2,16 @@
 Daily Meetings:
 
 
-<img src="https://i.hizliresim.com/e3a1xog.jpeg" width="275" height="700">
-<img src="https://i.hizliresim.com/ttjrfl9.jpeg" width="275" height="700">
-<img src="https://i.hizliresim.com/j4iurwy.jpeg" width="275" height="700">
-<img src="https://i.hizliresim.com/d6vu88x.jpeg" width="275" height="700">
-<img src="https://i.hizliresim.com/5jluzbo.jpeg" width="275" height="700">
-<img src="https://i.hizliresim.com/7rs3v62.jpeg" width="275" height="700">
-<img src="https://i.hizliresim.com/9wbzwm3.jpeg" width="275" height="700">
-<img src="https://i.hizliresim.com/2kl10dg.jpeg" width="275" height="700">
-<img src="https://i.hizliresim.com/fw1xe5t.jpeg" width="275" height="700">
-<img src="https://i.hizliresim.com/75y8drh.jpeg" width="275" height="700">
+<img src="https://i.hizliresim.com/e3a1xog.jpeg" width="325" height="700">
+<img src="https://i.hizliresim.com/ttjrfl9.jpeg" width="325" height="700">
+<img src="https://i.hizliresim.com/j4iurwy.jpeg" width="325" height="700">
+<img src="https://i.hizliresim.com/d6vu88x.jpeg" width="325" height="700">
+<img src="https://i.hizliresim.com/5jluzbo.jpeg" width="325" height="700">
+<img src="https://i.hizliresim.com/7rs3v62.jpeg" width="325" height="700">
+<img src="https://i.hizliresim.com/9wbzwm3.jpeg" width="325" height="700">
+<img src="https://i.hizliresim.com/2kl10dg.jpeg" width="325" height="700">
+<img src="https://i.hizliresim.com/fw1xe5t.jpeg" width="325" height="700">
+<img src="https://i.hizliresim.com/75y8drh.jpeg" width="325" height="700">
 
 
 Takım İsmi 
