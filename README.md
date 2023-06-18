@@ -6,6 +6,9 @@ Daily Meetings:
 
 ![wp1](http://www.hizliresim.com/qhh0x1m)(link)
 [![Blogger Badge](http://www.i.hizliresim.com/qhh0x1m.jpeg)](link)
+https://i.hizliresim.com/qhh0xlm.jpeg
+
+<img src="https://i.hizliresim.com/qhh0xlm.jpeg" width="auto">
 
 Takım İsmi 
 Flutter - 128
