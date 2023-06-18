@@ -28,7 +28,7 @@ Takım Üyeleri
 Gustopia
 
 Product Backlog URL
-https:///miro.com/app/board/uXjVM9zaO6k=/ "Product Backlog"
+\n(https:///miro.com/app/board/uXjVM9zaO6k=/ "Product Backlog")
 
 Ürün Açıklaması
 Gustopia,restoran sahipleriyle kullanıcıları buluşturan bir platformdur.Bu platform üzerinden kullanıcılar çeşitli mekanların özelliklerini,menülerini inceleyebilir ve yorum yapabilirler.Aynı zamanda diğer kullanıcılara gerçekçi tavsiyelerde bulunabilirler.
