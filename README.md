@@ -29,7 +29,7 @@ Takım Üyeleri
 Gustopia
 
 Product Backlog URL
-
+[Başlığa sahip bir yazı içi linkiyim](https://www.google.com "Google Anasayfa")
 
 Ürün Açıklaması
 Gustopia,restoran sahipleriyle kullanıcıları buluşturan bir platformdur.Bu platform üzerinden kullanıcılar çeşitli mekanların özelliklerini,menülerini inceleyebilir ve yorum yapabilirler.Aynı zamanda diğer kullanıcılara gerçekçi tavsiyelerde bulunabilirler.
