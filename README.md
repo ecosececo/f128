@@ -1,5 +1,6 @@
 
 ![F-128](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdiZmQ1YmQzZWYxNGI5ZGI3ZTAzNzhiNTAwZTk2YjM0MDE5YjE5ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/kJa2teK2hRyi9z2Uy9/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdiZmQ1YmQzZWYxNGI5ZGI3ZTAzNzhiNTAwZTk2YjM0MDE5YjE5ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/kJa2teK2hRyi9z2Uy9/giphy.gif" width="200" height="200" align="center"/>
 
 Daily Meetings:
 
