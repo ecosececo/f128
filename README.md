@@ -45,6 +45,9 @@ Gustopia,restoran sahipleriyle kullanıcıları buluşturan bir platformdur.Bu p
 *Yorum ve değerlendirme sistemi
 *Arama ve Filtreleme
 
+## Ürün Durumu
+<img src="https://i.hizliresim.com/tv0y9yi.jpeg" width="325" height="700">
+
 ## Hedef Kitle
 Bu tür bir mobil uygulama, çoğunlukla yemek yemek isteyen insanlar için tasarlanmış bir restoran değerlendirme ve inceleme uygulamasıdır. Hedef kitlesi genellikle şunları içerebilir:
 * Yerel ve şehir dışından gelen turistler: Yeni bir şehirde yemek yemek isteyen turistler, restoran seçimlerinde güvenilir ve doğru bilgilere ihtiyaç duyarlar. Bu uygulama, turistlere mevcut restoranların yorumlarını sunarak, onların tercihlerine ve beklentilerine uygun bir yer bulmalarına yardımcı olabilir.
