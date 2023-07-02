@@ -56,7 +56,7 @@ Daily Meetings:
 
 
 ## Sprint board Update :
-<img src="https://i.hizliresim.com/92irgh5.jpeg" width="800" height="1000">
+<img src="https://i.hizliresim.com/92irgh5.jpeg" width="900" height="1000">
 
 
 ## Sprint Notları:
@@ -87,7 +87,7 @@ Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır
 
 ## Sprint Board Screenshots:
 
-<img src="https://i.hizliresim.com/h2cjtkq.jpeg" width="800" height="1000">
+<img src="https://i.hizliresim.com/h2cjtkq.jpeg" width="900" height="1000">
 
 ## Ürün Durumu:
 
