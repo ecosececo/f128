@@ -86,12 +86,26 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puan
 Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 2.sprinte 100 puan ile devam edilmesine karar verilmiştir.
 
 ## Sprint Board Screenshots:
- ---- resim---
+
+<img src="https://i.hizliresim.com/h2cjtkq.jpeg" width="800" height="1000">
+
 ## Ürün Durumu:
-----resim---
+
+<img src="https://i.hizliresim.com/7thcdh5.jpeg" width="300" height="500">
+
 ## Daily Scrum:
+
 Daily scrum toplantıları zamansal nedenlerden ötürü whatsapp ve discord üzerinden gerçekleştirilmiştir. .Daily Scrum toplantısı örneği jpeg  olarak Readme’de tarafımızdan paylaşılmaktadır:
-----resimler---
+
+<img src="https://i.hizliresim.com/8jl0uvu.jpeg" width="300" height="500">
+<img src="https://i.hizliresim.com/sers3s9.jpeg" width="300" height="500">
+<img src="https://i.hizliresim.com/kddojr6.jpeg" width="300" height="500">
+<img src="https://i.hizliresim.com/7duxyvs.jpeg" width="300" height="500">
+<img src="https://i.hizliresim.com/ewsctjk.jpeg" width="300" height="500">
+<img src="https://i.hizliresim.com/simfvuo.jpeg" width="300" height="500">
+<img src="https://i.hizliresim.com/7clutdd.jpeg" width="300" height="500">
+<img src="https://i.hizliresim.com/blrb2i3.jpeg" width="900" height="700">
+<img src="https://i.hizliresim.com/32zb1os.jpeg" width="900" height="700">
 
 ## Sprint Review:
 Sprint botunca 3 kez genel toplantı yapılmış olup alınan kararlar doğrultusunda ilerlenilmiştir. Sprint ağırlıklı olarak fşgma ve canva kullanarak ürün tasarımınu gerçekleştirmeye ayrılmıştır.
