@@ -112,7 +112,35 @@ Sprint botunca 3 kez genel toplantı yapılmış olup alınan kararlar doğrultu
 
 ## Sprint Retrospective:
 *Ürün tasarımı gerçekleştirilmiş olup diğer sprintte kodlama aşamasına geçilmesine vurgu yapılmıştır.
-*Takım üyelerinin gelecek sprintlerde daha aktif rol alması gerektiğine vurgu yapılmıştır.
-Sprint Restrospective katılımcıları : Ece Eylü Şen,İlke Karaahmetoğlu,Hatice Kopuz,Berke Nalbant.
+*Takım üyelerinin gelecek sprintlerde daha aktif rol alması gerektiğine vurgu yapılmıştır. Sprint Restrospective katılımcıları : Ece Eylü Şen,İlke Karaahmetoğlu,Hatice Kopuz,Berke Nalban
+
+
+# Sprint 3
+
+
+## Sprint Notları:
+Taskler ve user storyler product backloga eklenmiştir.
+
+## Sprint içinde tamamlanması öngörülen puan : 
+140 Puan
+
+## Puan tamamlama mantığı:
+Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3.sprinte 140 puan ile devam edilmesine karar verilmiştir.
+
+## Sprint Board Screenshots:
+
+
+## Ürün Durumu:
+
+
+## Daily Scrum:
+Daily scrum toplantıları zamansal nedenlerden ötürü whatsapp ve discord üzerinden gerçekleştirilmiştir. .Daily Scrum toplantısı örneği jpeg  olarak Readme’de tarafımızdan paylaşılmaktadır:
+
+
+## Sprint Review:
+Sprint botunca 3 kez genel toplantı yapılmış olup alınan kararlar doğrultusunda ilerlenilmiştir. Sprint ağırlıklı olarak ürün kodunu  gerçekleştirmeye ayrılmıştır.
+
+## Sprint Retrospective:
+Ürün son haline getirilmiş olup takım bir araya gelerek son retrospektif toplantısını tamamlamıştır.Takım üyeleri tebrik edilmiş proje kapanmıştır.
 
 
